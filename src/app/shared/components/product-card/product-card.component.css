@@ -1,0 +1,15 @@
+.card{
+    margin-bottom: 20px;
+}
+
+.card-footer{
+    padding: 0px;
+}
+
+.card-img-top{
+    height:200px;
+}
+
+.card-body{
+    height:125px;
+}
