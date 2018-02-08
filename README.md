@@ -13,10 +13,10 @@ Realtime updates (through Firebase Realtime Database).
 
 # Code Structure
 code is divided into four main module. Each module contains related features of the application so that application is easier to maintain and extend. 
-1.Core Module
-2.Shared Module
-3.Admin Module
-4.Shopping Module
+* Core Module
+* Shared Module
+* Admin Module
+* Shopping Module
 
 
 # Technologies
