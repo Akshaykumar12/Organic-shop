@@ -31,4 +31,4 @@ To use your own Firebase Database change the api key from firebase-key
     > npm install
     > npm start -- --host 127.0.0.1
 
-[The project is from this awesome Angular 4 course (BY MOSH HAMEDANI) which I've taken.]
+
